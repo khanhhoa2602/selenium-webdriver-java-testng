@@ -16,5 +16,6 @@
     <orderEntry type="library" name="selenium-server-4.10.0" level="project" />
     <orderEntry type="library" name="selenium-api-4.10.0-sources" level="project" />
     <orderEntry type="library" name="selenium-api-4.10.0-sources (2)" level="project" />
+    <orderEntry type="library" name="selenium-server-4.20.0" level="project" />
   </component>
 </module>
